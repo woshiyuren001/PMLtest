@@ -1,0 +1,6 @@
+windows上安装git
+1.VMware安装：官网下载https://www.vmware.com/cn/products/workstation-pro/workstation-pro-evaluation.html，我用的是15 pro最新版；密钥：CG392-4PX5J-H816Z-HYZNG-PQRG2，来自https://jingyan.baidu.com/article/3f16e00321bbb12591c10304.html
+2.Ubuntu镜像下载16.04：http://mirrors.ustc.edu.cn/ubuntu-releases/16.04/
+3.安装挂载虚拟机：https://blog.csdn.net/colin_lisicong/article/details/70193539
+按照教程所示安装虚拟机，并启动Ubuntu的安装，中间因为分辨率的问题导致界面显示不全，按住ALT+鼠标左键可以移动界面。
+4.安装git
